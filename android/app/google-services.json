@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "81634543687",
+    "project_id": "flutter-chat-app-dakshita",
+    "storage_bucket": "flutter-chat-app-dakshita.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81634543687:android:705be01d02ad2434594962",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdrp5kdKEkwVqxk0bD_lCB8_YP8tUsQ4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
